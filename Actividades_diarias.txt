@@ -1,19 +1,21 @@
 1-Me despierto.
 2-Me Levanto.
 3-Voy al baño.
-4-Desayuno.
-5-Enciendo la computadora.
-6-Estudio.
-7-Apago la computadora.
-8-Hago ejercicio.
-9-Almuerzo.
-10-Hago limpieza.
-11-Me baño.
-12-Me visto.
-13-Enciendo la computadora.
-14-Estudio por horas.
-15-Apago la computadora.
-16-Veo las noticias.
-17-Ceno.
-18-Estudio.
-19-Me voy a dormir.
+4-Me cepillo los dientes.
+5-Desayuno.
+6-Enciendo la computadora.
+7-Estudio.
+8-Apago la computadora.
+9-Hago ejercicio.
+10-Le un libro.
+11-Almuerzo.
+12-Hago limpieza.
+13-Me baño.
+14-Me visto.
+15-Enciendo la computadora.
+16-Estudio por horas.
+18-Apago la computadora.
+19-Veo las noticias.
+20-Ceno.
+21-Estudio.
+22-Me voy a dormir.
