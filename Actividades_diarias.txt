@@ -2,17 +2,17 @@
 2-Me Levanto.
 3-Voy al baño.
 4-Me cepillo los dientes.
-5-Desayuno.
+5-Desayuno con Superman.
 6-Voy a volar una hora.
 7-Ordeno a mi tarea que se haga sola.
 8-Hago ejercicio.
 9-Le un libro.
 10-Almuerzo.
-11-Hago limpieza.
+11-Hago limpieza con la mente.
 12-Me baño con lava.
 13-Me visto.
 14-Enciendo la computadora con la vista.
-15-Estudio por horas.
+15-Estudio 10 libros en dos minutos.
 16-Apago la computadora con la vista.
 17-Veo las noticias.
 18-Ceno.
