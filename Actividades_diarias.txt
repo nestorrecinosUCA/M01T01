@@ -1,0 +1,19 @@
+1-Me despierto.
+2-Me Levanto.
+3-Voy al baño.
+4-Desayuno.
+5-Enciendo la computadora.
+6-Estudio.
+7-Apago la computadora.
+8-Hago ejercicio.
+9-Almuerzo.
+10-Hago limpieza.
+11-Me baño.
+12-Me visto.
+13-Enciendo la computadora.
+14-Estudio por horas.
+15-Apago la computadora.
+16-Veo las noticias.
+17-Ceno.
+18-Estudio.
+19-Me voy a dormir.
