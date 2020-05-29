@@ -11,13 +11,13 @@
 11-Hago limpieza.
 12-Me baño con lava.
 13-Me visto.
-14-Enciendo la computadora.
+14-Enciendo la computadora con la vista.
 15-Estudio por horas.
-16-Apago la computadora.
+16-Apago la computadora con la vista.
 17-Veo las noticias.
 18-Ceno.
 19-Enciendo la computadora.
-20-Reviso mis redes sociales.
+20-Reviso mis redes sociales desde mis manos.
 21-Apago la computadora.
 22-Juego en el celular.
-23-Me voy a dormir.
+23-Me voy a dormir bajo el agua.
