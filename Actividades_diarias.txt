@@ -17,5 +17,7 @@
 18-Apago la computadora.
 19-Veo las noticias.
 20-Ceno.
-21-Estudio.
+21-Enciendo la computadora.
+22-Reviso mis redes sociales.
+23-Apago la computadora.
 22-Me voy a dormir.
