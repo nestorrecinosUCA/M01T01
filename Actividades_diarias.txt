@@ -20,6 +20,6 @@
 21-Enciendo la computadora.
 22-Reviso mis redes sociales.
 23-Apago la computadora.
-24-Tomo agua.
-22-Me voy a dormir.
+24-Juego en el celular.
+25-Me voy a dormir.
 
